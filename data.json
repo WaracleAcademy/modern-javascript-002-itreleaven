@@ -21,13 +21,13 @@
       "registry": "NX-74205",
       "sort": 2
     },
-    {
-      "id": "4",
-      "name": "Borg",
-      "class": "Square",
-      "registry": "BG-4201",
-      "sort": 4
 
+     {
+      "id": "4",
+      "name": "Borg Cube",
+      "class": "Cube",
+      "registry": "B-837",
+      "sort": 4
     }
   ]
   
