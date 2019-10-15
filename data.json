@@ -20,6 +20,13 @@
       "class": "Defiant",
       "registry": "NX-74205",
       "sort": 2
+    },
+     {
+      "id": "4",
+      "name": "Borg Cube",
+      "class": "Cube",
+      "registry": "B-837",
+      "sort": 4
     }
   ]
   
