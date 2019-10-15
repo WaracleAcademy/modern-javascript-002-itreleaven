@@ -46,6 +46,7 @@ content += '</ul>';
 
 render(content);
 getThingTemplate({});
+console.log('this is a feature change');
 
 //const things  = ['Voyager','Enterprise','Defiant'];
 
