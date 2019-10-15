@@ -4,19 +4,22 @@
       "id": "1",
       "name": "Voyager",
       "class": "Intrepid",
-      "registry": "NCC-74656"
+      "registry": "NCC-74656",
+      "sort": 1
     },
     {
       "id": "2",
       "name": "Enterprise",
       "class": "Soveriegn",
-      "registry": "NCC-1701-E"
+      "registry": "NCC-1701-E",
+      "sort": 3
     },
     {
       "id": "3",
       "name": "Defiant",
       "class": "Defiant",
-      "registry": "NX-74205"
+      "registry": "NX-74205",
+      "sort": 2
     }
   ]
   
